@@ -1,0 +1,13 @@
+#left {
+    border: 2px solid pink;
+}
+
+#right {
+    border: 2px solid lightblue;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50%;
+}
